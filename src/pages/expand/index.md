@@ -1,6 +1,7 @@
 ---
 title: EXPAND - Residências Arte, Ciência e Tecnologia
 date: "2018-07-13T10:32:32.169Z"
+author: João Figueiredo
 ---
 
 ![EXPAND](expand_newsletter.jpg)
