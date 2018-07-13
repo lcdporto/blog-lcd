@@ -1,6 +1,7 @@
 ---
 title: Habemus Blog
 date: "2018-07-13T10:03:32.169Z"
+author: João Figueiredo
 ---
 
 Depois de uns dois falsos arranques decidimos avançar com o blog do LCD Porto.
