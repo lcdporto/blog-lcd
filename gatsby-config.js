@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
+    title: 'Blog LCD Porto',
     author: 'Kyle Mathews',
     description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    siteUrl: 'https://blog.lcdporto.org/',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
