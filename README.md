@@ -1,9 +1,19 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+#  Blog LCD
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+## Introdução
 
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+Blog do LCD com recurso ao Gatsby. As instruções que se seguem assumem que tens o Gatsby instalado, para mais informação [Gatsby](https://www.gatsbyjs.org/ "Gatsby").
 
-## Running in development
-`gatsby develop`
+## Desenvolvimento
+
+``` shell
+$ gatsby develop
+```
+
+## Produção
+
+``` shell
+$ gatsby build
+$ docker build -t lcdporto/blog:latest .
+$ docker push lcdporto/blog:latest
+```
