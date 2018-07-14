@@ -17,3 +17,9 @@ $ gatsby build
 $ docker build -t lcdporto/blog:latest .
 $ docker push lcdporto/blog:latest
 ```
+
+ou podes usar o script deploy.sh
+
+``` shell
+$ deploy.sh
+```
