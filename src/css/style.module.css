@@ -1,0 +1,14 @@
+/*
+ *
+ *
+ *
+ */
+
+BODY {
+  background-color:rgb(252, 252, 252);
+}
+
+.blogtitle A {
+  color:#0f0a01;
+  box-shadow: none;
+}

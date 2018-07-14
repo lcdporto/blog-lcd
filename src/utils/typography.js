@@ -1,6 +1,9 @@
 import Typography from 'typography'
 import Wordpress2016 from 'typography-theme-wordpress-2016'
 
+import 'typeface-montserrat'
+import 'typeface-merriweather'
+
 Wordpress2016.overrideThemeStyles = () => ({
   'a.gatsby-resp-image-link': {
     boxShadow: 'none',

@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 
 import { rhythm, scale } from '../utils/typography'
+import styles from "../css/style.module.css";
 
 
 class Template extends React.Component {
@@ -20,8 +21,9 @@ class Template extends React.Component {
     if (location.pathname === rootPath) {
       header = (
         <h1
+          className={styles.blogtitle}
           style={{
-            ...scale(1.5),
+            ...scale(1.3),
             marginBottom: rhythm(1.5),
             marginTop: 0,
           }}
@@ -36,6 +38,7 @@ class Template extends React.Component {
     } else {
       header = (
         <h3
+          className={styles.blogtitle}
           style={{
             fontFamily: 'Montserrat, sans-serif',
             marginTop: 0,
