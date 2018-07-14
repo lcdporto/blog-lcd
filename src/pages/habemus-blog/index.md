@@ -10,4 +10,4 @@ Para além de ser um registo dos momentos mais importantes do LCD Porto vai serv
 
 Resolvemos usar o Gatsby como framework para o desenvolvimento assim temos um blog extremamente rápido, com baixos requisitos de servidor, seguro pois não há *server side scripting* e (acima de tudo!!) permite-nos escrever os posts em Markdown… :D
 
-Agora é usar e manter atualiado... ;)
+Agora é usar e manter atualizado... ;)
