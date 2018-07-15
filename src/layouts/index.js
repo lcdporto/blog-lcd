@@ -3,8 +3,9 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 
 import { rhythm, scale } from '../utils/typography'
-import styles from "../css/style.module.css";
+import styles from "../css/style.module.css"
 
+import Footer from './footer'
 
 class Template extends React.Component {
   render() {
@@ -64,6 +65,7 @@ class Template extends React.Component {
       >
         {header}
         {children()}
+        <Footer />
       </div>
     )
   }

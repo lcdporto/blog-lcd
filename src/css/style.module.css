@@ -6,9 +6,36 @@
 
 BODY {
   background-color:rgb(252, 252, 252);
+
+}
+
+FOOTER {
+  margin-top: 1rem;
+  border-top: 1px solid #AAA;
+  padding: 1rem;
+  background-color: rgb(247, 247, 247);
 }
 
 .blogtitle A {
   color:#0f0a01;
   box-shadow: none;
+}
+
+.cc {
+  font-size: .5rem;
+}
+
+.cc A {
+  color: rgba(20, 20, 20, .8);
+  box-shadow: none;
+}
+
+.ccIMG {
+  float: left;
+  padding-right: .5rem;
+}
+
+.cc IMG {
+  height: 2rem;
+  padding: .1rem;
 }
