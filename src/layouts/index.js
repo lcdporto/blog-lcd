@@ -65,7 +65,7 @@ class Template extends React.Component {
       >
         {header}
         {children()}
-        <Footer />
+        <Footer siteTitle={siteTitle} />
       </div>
     )
   }

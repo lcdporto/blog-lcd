@@ -10,32 +10,44 @@ BODY {
 }
 
 FOOTER {
+  font-family: Montserrat, sans-serif;
+  font-size: .8rem;
   margin-top: 1rem;
   border-top: 1px solid #AAA;
   padding: 1rem;
   background-color: rgb(247, 247, 247);
+  color: rgba(0, 0, 0, .5);
 }
 
-.blogtitle A {
-  color:#0f0a01;
+FOOTER H3 {
+  margin: 0px;
+  font-size: 1rem;
+}
+
+FOOTER A {
   box-shadow: none;
+  color: rgba(0, 0, 0, .5);
 }
 
 .cc {
-  font-size: .5rem;
+  font-size: .6rem;
 }
 
 .cc A {
-  color: rgba(20, 20, 20, .8);
-  box-shadow: none;
 }
 
 .ccIMG {
   float: left;
   padding-right: .5rem;
+  opacity: 0.5;
 }
 
 .cc IMG {
   height: 2rem;
   padding: .1rem;
+}
+
+.blogtitle A {
+  color:#0f0a01;
+  box-shadow: none;
 }
