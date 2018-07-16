@@ -29,6 +29,28 @@ FOOTER A {
   color: rgba(0, 0, 0, .5);
 }
 
+.centerWrapper {
+
+}
+
+FOOTER .lcdlinks {
+  display: flex;
+  margin: 1.5rem auto;
+  width: 400px;
+  opacity: 0.5;
+  height: 3rem;
+}
+
+FOOTER .lcdlinks LI {
+  list-style-type: none;
+  margin: 0 1.5rem 0 0;
+}
+
+FOOTER .lcdlinks IMG {
+  height: 3rem;
+}
+
+
 .cc {
   font-size: .6rem;
 }

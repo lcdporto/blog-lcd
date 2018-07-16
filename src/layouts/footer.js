@@ -4,6 +4,10 @@ import get from 'lodash/get'
 
 import cc from '../assets/cc.svg'
 import by from '../assets/by.svg'
+import gh from '../assets/github-mark-small-black.svg'
+import fb from '../assets/F_icon-black.svg'
+import ig from '../assets/instagram-black.svg'
+import tw from '../assets/Twitter-black.svg'
 
 import { rhythm } from '../utils/typography'
 import styles from "../css/style.module.css"
@@ -25,11 +29,15 @@ class Footer extends React.Component {
     </h3>
   </div>
   <div /* LCD Links */
-    style={{
-      display: 'flex',
-    }}
+    className={styles.centerWrapper}
   >
-    <li><a href='https://lcdporto.org'>LCD Porto</a></li>
+    <div className={styles.lcdlinks}>
+      <li><a href='https://lcdporto.org'>LCD Porto<br />(website)</a></li>
+      <li><a href='https://github.com/lcdporto/'><img src={gh} /></a></li>
+      <li><a href='https://facebook.com/lcdporto/'><img src={fb} /></a></li>
+      <li><a href='https://www.instagram.com/lcdporto/'><img src={ig} /></a></li>
+      <li><a href='https://twitter.com/lcdporto/'><img src={tw} /></a></li>
+    </div>
   </div>
 
 
