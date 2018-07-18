@@ -55,7 +55,7 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 @ [NQ Digital Agency](https://www.nqda.pt/) / Viana
 ([mapa](https://goo.gl/maps/VWRmXnuSkj12))
 
-#### Sábado, 20 de Julho
+#### Sábado, 21 de Julho
 
 * [iOS Peer Lab Porto](https://www.meetup.com/iOS-Peer-Lab-Porto/events/252191628/)
 @ [The Feeting Room - Porto](https://www.thefeetingroom.com/pages/flagship-store)
