@@ -24,27 +24,53 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 
 ### Para a Semana
 
-#### Segunda-feira, 23 de Julho
-
 #### Terça-feira, 24 de Julho
 
-* Flash Class Configuração de um Servidor de Git @ LCD Porto
-* Laboratório Aberto @ LCD Porto
-* PR for Startups by Liliana Castro @ Founders Founders 
+* **[Flash Class Configuração de um Servidor de Git](https://www.lcdporto.org/atividades/flash-class-configuracao-de-um-servidor-de-git)**
+@ [LCD Porto](https://www.lcdporto.org/)
+([mapa](https://goo.gl/maps/2W9kJEShP9D2))
+* **[Laboratório Aberto](https://www.lcdporto.org/atividades/laboratorio-aberto)**
+@ [LCD Porto](https://www.lcdporto.org/)
+([mapa](https://goo.gl/maps/2W9kJEShP9D2))
+* [PR for Startups by Liliana Castro](https://www.eventbrite.co.uk/e/lets-grow-again-17-tickets-47662977248) @ [Founders Founders](http://www.founders-founders.com/)
+([mapa](https://maps.google.com/?cid=3857852217621409279))
+* [PWL #06 :: Deep Neural Networks and Distributed Consensus](
+https://www.meetup.com/Papers-We-Love-Porto/events/252595151/) 
+@ [Blip](https://www.blip.pt/)
+([mapa](https://maps.google.com/?cid=12241631696413520772))
 
 #### Quarta-feira, 25 de Julho
 
+* [Workshop Fotografia Noturna no Parque]( https://www.serralves.pt/pt/actividades/workshops-de-fotografia-noturna-no-parque-ha-luz-no-parque-2018/)
+@ [Fundação Serralves](https://www.serralves.pt/)
+([mapa](https://goo.gl/maps/YhnkdFyb5GQ2))
+
 #### Quinta-feira, 26 de Julho
 
-* WordPress Meetup 
+* [The marketing and growth meetup with industry experts](https://www.facebook.com/events/249702349111750/)
+@ [Founders Founders](http://www.founders-founders.com/)
+([mapa](https://maps.google.com/?cid=3857852217621409279))
+* [Masterchef Agile Mindset](https://www.meetup.com/Agile-Connect-Porto/events/252832262/)
+@ [Hostelworld](https://www.linkedin.com/company/hostelworld-com/life/)
+([mapa](https://maps.google.com/?cid=5138460051952077402))
+* [Meetup WordPress Porto: O Estado do Gutenberg](https://www.meetup.com/WP-Porto/events/252700780/) 
+@ [Porto i/o](http://porto.io/) Seaside
+([mapa](https://maps.google.com/?cid=5216069477065432958))
 
 #### Sexta-feira, 27 de Julho
 
+* [Workshop Organização de Eventos](https://esj.pt/2221)
+@ [Escola Superior de Jornalismo](https://esj.pt/)
+([mapa](https://goo.gl/maps/jMMZ8oU8QRn))
+
 #### Sábado, 28 de Julho
 
-* Boxing day @ LCD Porto
-
-#### Domingo, 29 de Julho
+* **[Boxing Day + Jantar + Tertulia](https://blog.lcdporto.org/boxing-day-28-julho-2018/)**
+@ [LCD Porto](https://www.lcdporto.org/)
+([mapa](https://goo.gl/maps/2W9kJEShP9D2))
+* [PyCoffee. Hot coffee and Pythonic discussions](https://www.meetup.com/pyporto/events/250873840/)
+@ [Porto i/o](http://porto.io/) Downtown
+([mapa](https://maps.google.com/?cid=12457545381001472324))
 
 
 ---
