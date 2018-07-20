@@ -47,6 +47,9 @@ https://www.meetup.com/Papers-We-Love-Porto/events/252595151/)
 
 #### Quinta-feira, 26 de Julho
 
+* [Reactor Talk - Innovation & The City | City as an Opportunity Catalyst]()
+@ [REACTOR Innovation Hub](https://reactorhub.io/)
+([mapa](https://goo.gl/maps/jHDyounA2Ds))
 * [The marketing and growth meetup with industry experts](https://www.facebook.com/events/249702349111750/)
 @ [Founders Founders](http://www.founders-founders.com/)
 ([mapa](https://maps.google.com/?cid=3857852217621409279))
