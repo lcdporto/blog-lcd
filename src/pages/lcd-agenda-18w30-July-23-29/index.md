@@ -47,7 +47,7 @@ https://www.meetup.com/Papers-We-Love-Porto/events/252595151/)
 
 #### Quinta-feira, 26 de Julho
 
-* [Reactor Talk - Innovation & The City | City as an Opportunity Catalyst]()
+* [Reactor Talk - Innovation & The City | City as an Opportunity Catalyst](https://www.eventbrite.com/e/reactor-talk-innovation-the-city-city-as-an-opportunity-catalyst-tickets-48232541831)
 @ [REACTOR Innovation Hub](https://reactorhub.io/)
 ([mapa](https://goo.gl/maps/jHDyounA2Ds))
 * [The marketing and growth meetup with industry experts](https://www.facebook.com/events/249702349111750/)
@@ -62,6 +62,9 @@ https://www.meetup.com/Papers-We-Love-Porto/events/252595151/)
 
 #### Sexta-feira, 27 de Julho
 
+* [Game Dev Meet Porto](https://www.meetup.com/GameDevMeetPorto/events/252709824/)
+@ [Polo Zero](http://polozero.fap.pt/)
+([mapa](https://maps.google.com/?cid=6452894895241246126))
 * [Workshop Organização de Eventos](https://esj.pt/2221)
 @ [Escola Superior de Jornalismo](https://esj.pt/)
 ([mapa](https://goo.gl/maps/jMMZ8oU8QRn))
