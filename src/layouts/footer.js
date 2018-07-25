@@ -8,6 +8,7 @@ import gh from '../assets/github-mark-small-black.svg'
 import fb from '../assets/F_icon-black.svg'
 import ig from '../assets/instagram-black.svg'
 import tw from '../assets/Twitter-black.svg'
+import rss from '../assets/rss-symbol.svg'
 
 import { rhythm } from '../utils/typography'
 import styles from "../css/style.module.css"
@@ -29,6 +30,7 @@ class Footer extends React.Component {
     <li><a href='https://facebook.com/lcdporto/'><img src={fb} /></a></li>
     <li><a href='https://www.instagram.com/lcdporto/'><img src={ig} /></a></li>
     <li><a href='https://twitter.com/lcdporto/'><img src={tw} /></a></li>
+    <li><Link to='rss.xml'><img src={rss} /></Link></li>
   </div /* /LCD Links */>
 
 
