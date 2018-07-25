@@ -1,7 +1,13 @@
 ---
-title: Boxing Day 28 Julho 2018
+title: (anulado) Boxing Day 28 Julho 2018
 date: "2018-07-12T22:12:03.284Z"
 author: Ricardo Lobo
+---
+
+**Update 25.07.2018: ANULADO**
+
+Não vai ser possível realizar o Boxing Day nesta data, fica adiado para Setembro em data a anunciar.
+
 ---
 
 Quando as férias se aproximam a tradição no [LCD Porto](https://www.lcdporto.org "Site do LCD Porto") é fechar as atividades com um boxing day para deixar a casa em ordem para a reabertura em Setembro. Este ano a **data escolhida é 28 de Julho**, o último sábado do mês.
