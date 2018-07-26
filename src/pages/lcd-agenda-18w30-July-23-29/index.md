@@ -35,7 +35,7 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 * [PR for Startups by Liliana Castro](https://www.eventbrite.co.uk/e/lets-grow-again-17-tickets-47662977248) @ [Founders Founders](http://www.founders-founders.com/)
 ([mapa](https://maps.google.com/?cid=3857852217621409279))
 * [PWL #06 :: Deep Neural Networks and Distributed Consensus](
-https://www.meetup.com/Papers-We-Love-Porto/events/252595151/) 
+https://www.meetup.com/Papers-We-Love-Porto/events/252595151/)
 @ [Blip](https://www.blip.pt/)
 ([mapa](https://maps.google.com/?cid=12241631696413520772))
 
@@ -56,7 +56,7 @@ https://www.meetup.com/Papers-We-Love-Porto/events/252595151/)
 * [Masterchef Agile Mindset](https://www.meetup.com/Agile-Connect-Porto/events/252832262/)
 @ [Hostelworld](https://www.linkedin.com/company/hostelworld-com/life/)
 ([mapa](https://maps.google.com/?cid=5138460051952077402))
-* [Meetup WordPress Porto: O Estado do Gutenberg](https://www.meetup.com/WP-Porto/events/252700780/) 
+* [Meetup WordPress Porto: O Estado do Gutenberg](https://www.meetup.com/WP-Porto/events/252700780/)
 @ [Porto i/o](http://porto.io/) Seaside
 ([mapa](https://maps.google.com/?cid=5216069477065432958))
 
@@ -71,7 +71,7 @@ https://www.meetup.com/Papers-We-Love-Porto/events/252595151/)
 
 #### Sábado, 28 de Julho
 
-* **[Boxing Day + Jantar + Tertulia](https://blog.lcdporto.org/boxing-day-28-julho-2018/)**
+* Anulado ~~[Boxing Day + Jantar + Tertulia](https://blog.lcdporto.org/boxing-day-28-julho-2018/)~~
 @ [LCD Porto](https://www.lcdporto.org/)
 ([mapa](https://goo.gl/maps/2W9kJEShP9D2))
 * [PyCoffee. Hot coffee and Pythonic discussions](https://www.meetup.com/pyporto/events/250873840/)
