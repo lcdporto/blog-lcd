@@ -5,20 +5,6 @@ import Helmet from 'react-helmet'
 
 import { rhythm } from '../utils/typography'
 
-var myPresent = new Date()
-
-myPresent.toLocaleDateString()
-
-/*  */
-var inDev = "me not set"
-if (!process.env.NODE_ENV || process.env.NODE_ENV === 'development') {
-  // dev code
-  inDev = true
-} else {
-  // production code
-  inDev = false
-}
-
 class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
@@ -27,34 +13,23 @@ class BlogIndex extends React.Component {
     return (
       <div>
         <Helmet title={siteTitle} />
-        {posts.map(({ node }) => { 
+        {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
-          const currentTime = new Date()
-          const postDate = new Date( get(node, 'frontmatter.date') )
-          const strPostDate = postDate.toLocaleString(
-            'pt-PT',
-            { year: 'numeric', month: 'numeric', day: 'numeric' })
-          if ( ( postDate < currentTime ) || inDev ) {
-            return (
-              <div key={node.fields.slug}>
-                <h3
-                  style={{
-                    marginBottom: rhythm(1 / 4),
-                  }}
-                >
-                  <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>
-                    {title}
-                  </Link>
-                </h3>
-                <small>{strPostDate}</small>
-                <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
-              </div>
-            )
-          } else {
-            return(
-              null
-            )
-          }
+          return (
+            <div key={node.fields.slug}>
+              <h3
+                style={{
+                  marginBottom: rhythm(1 / 4),
+                }}
+              >
+                <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>
+                  {title}
+                </Link>
+              </h3>
+              <small>{node.frontmatter.date}</small>
+              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+            </div>
+          )
         })}
       </div>
     )
@@ -78,7 +53,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date
+              date(formatString: "DD.MM.YYYY", locale: "pt")
             title
           }
         }
