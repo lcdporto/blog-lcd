@@ -25,11 +25,11 @@ class Footer extends React.Component {
     className={styles.lcdlinks}
     style={{display: 'flex', justifyContent: 'center'}}
   >
-    <li><a href='https://lcdporto.org' title='Website'><b>LCD Porto</b></a></li>
-    <li><a href='https://github.com/lcdporto/'><img src={gh} /></a></li>
-    <li><a href='https://facebook.com/lcdporto/'><img src={fb} /></a></li>
-    <li><a href='https://www.instagram.com/lcdporto/'><img src={ig} /></a></li>
-    <li><a href='https://twitter.com/lcdporto/'><img src={tw} /></a></li>
+    <li><a href='https://lcdporto.org' title='Website' target='_blank'><b>LCD Porto</b></a></li>
+    <li><a href='https://github.com/lcdporto/' target='_blank'><img src={gh} /></a></li>
+    <li><a href='https://facebook.com/lcdporto/' target='_blank'><img src={fb} /></a></li>
+    <li><a href='https://www.instagram.com/lcdporto/' target='_blank'><img src={ig} /></a></li>
+    <li><a href='https://twitter.com/lcdporto/' target='_blank'><img src={tw} /></a></li>
     <li><Link to='rss.xml'><img src={rss} /></Link></li>
   </div /* /LCD Links */>
 
