@@ -38,11 +38,11 @@ class Footer extends React.Component {
     className={styles.cc}
     style={{display: 'flex', justifyContent: 'center'}}
   >
-    <a href="https://creativecommons.org/licenses/by/4.0/legalcode.pt">
+    <a href="https://creativecommons.org/licenses/by/4.0/legalcode.pt" target='_blank'>
       <img src={cc} />
       <img src={by} />
     </a>
-    <a href="https://creativecommons.org/licenses/by/4.0/legalcode.pt">
+    <a href="https://creativecommons.org/licenses/by/4.0/legalcode.pt" target='_blank'>
       A não ser que explicitamente indicado o <b>{siteTitle}</b> está
       disponível sob a licensa Atribuição 4.0 Internacional
     </a>
