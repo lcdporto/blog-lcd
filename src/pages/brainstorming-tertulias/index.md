@@ -32,4 +32,4 @@ Os temas que nos mais interessam são:
 
 Embora alguns temas estejam muito interligados e tenham dependências todos eles nos parecem ser passíveis de ser foco central de tertúlia.
 
-Agora falta escolher quais os dois primeiros a serem debatidos, podes indicar a tua preferencia na sondagem que colocamos no Facebook.
+Agora falta escolher quais os dois primeiros a serem debatidos, podes indicar a tua preferencia na [sondagem que colocamos no Facebook](https://www.facebook.com/groups/lcdporto/permalink/2171499943126566/).
