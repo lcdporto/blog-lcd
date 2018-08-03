@@ -22,6 +22,21 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 
 ### Para a Semana
 
+#### Quinta-feira, 9 de Agosto
+
+* [Porto Codes](https://www.meetup.com/portocodes/events/250479427/)
+@ [Porto i/o](http://porto.io/) Downtown
+([mapa](https://maps.google.com/?cid=12457545381001472324))
+
+#### Sábado, 11 de Agosto
+
+* [PyCoffee. Hot coffee and Pythonic discussions](https://www.meetup.com/pyporto/events/250873917/)
+@ [Porto i/o](http://porto.io/) Downtown
+([mapa](https://maps.google.com/?cid=12457545381001472324))
+
+* [Workshop de Fotografia Noturna](https://www.serralves.pt/pt/actividades/workshops-de-fotografia-noturna-no-parque-ha-luz-no-parque-2018/)
+@ [Parque de Serralves](https://www.serralves.pt/pt/)
+([mapa](https://goo.gl/maps/zpUmKAB8Dhv))
 
 
 ---
