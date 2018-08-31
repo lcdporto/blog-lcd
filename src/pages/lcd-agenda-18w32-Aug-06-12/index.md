@@ -17,7 +17,8 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 #### Sábado, 4 de Agosto
 
 * [iOS Peer Lab Porto](https://www.meetup.com/iOS-Peer-Lab-Porto/events/252867960/)
-@ [The Feeting Room - Porto](https://www.thefeetingroom.com/pages/fl
+@ [The Feeting Room - Porto](https://www.thefeetingroom.com/pages/flagship-store)
+([mapa](https://goo.gl/maps/HxwkF56HQS72))
 
 
 ### Para a Semana
