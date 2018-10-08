@@ -40,6 +40,9 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 * **[LCD Porto - Laboratório Aberto](https://www.lcdporto.org/atividades/laboratorio-aberto)**
 @ [LCD Porto](https://lcdporto.org/)
 ([mapa](https://goo.gl/maps/A65zj4ZXTrp))
+* [Porto Testers Meetup](https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-31-50907010238)
+@ [BySide](http://www.byside.com/)
+([mapa(https://goo.gl/maps/QefrYbyNXYw)])
 
 #### Quarta-feira, dia 10 de Outubro
 
@@ -50,6 +53,10 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 * [Distributed Systems [Nerdzao PT]](https://www.meetup.com/Nerdzao-PT/events/255246826/)
 @ [Farfetch](https://www.farfetch.com/pt/careers#10003)
 ([mapa](https://goo.gl/maps/sVqrgbSqpsH2))
+
+* [CocoaHeads Porto](https://www.meetup.com/CocoaHeads-Porto/events/255260956/)
+@ [Polo Zero](http://polozero.fap.pt/)
+([mapa](https://maps.google.com/?cid=6452894895241246126))
 
 #### Quinta-feira, dia 11 de Outubro
 
@@ -105,6 +112,9 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 * [Meetup Made in Aveiro [Techdays]](https://www.facebook.com/events/486095031873318/)
 @ [Aveiro Expo](http://aveiroexpo.com/)
 ([mapa](https://goo.gl/maps/oa4Pbksvj3t))
+* [Workshop de Serigrafia Têxtil](https://www.facebook.com/events/671771003191654/)
+@ [CRU loja / Cowork](http://cru-cowork.com/)
+([mapa](https://goo.gl/maps/tpq96ddZ6JA2))
 * [The Future of Work and the Creative Freelancing in the New Economy](https://www.meetup.com/solosessionsporto/events/254997405/)
 @ [CRU loja / Cowork](http://cru-cowork.com/)
 ([mapa](https://goo.gl/maps/tpq96ddZ6JA2))
