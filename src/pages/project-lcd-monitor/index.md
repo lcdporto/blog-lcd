@@ -1,10 +1,16 @@
 ---
 title: "Projeto: LCD Monitor"
-date: "2018-10-12T11:05:05.169Z"
+date: "2018-10-11T10:15:05.169Z"
 author: João Figueiredo
 ---
 
 ![Let's Make It](bernard-hermant-590572-unsplash.jpg)
+
+Como espaço de trabalho partilhado por várias pessoas, onde ser pretende ter a maior flexibilidade e ao mesmo tempo segurança e responsabilidade, o controlo de acessos é um desafio que há muito tentamos resolver.
+
+Resolvemos canibalizar o atual alarme e criar um novo cuja programação seja bem mais flexivel.
+
+---
 
 Vamos aproveitar os sensores de movimento do atual alarme e fabricar uma nova consola.
 
