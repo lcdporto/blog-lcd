@@ -12,6 +12,11 @@ Resolvemos canibalizar o atual alarme e criar um novo cuja programação seja be
 
 ---
 
+Coordenador: João Figueiredo<br />
+Repositório: https://github.com/lcdporto/lcd-monitor
+
+---
+
 Vamos aproveitar os sensores de movimento do atual alarme e fabricar uma nova consola.
 
 As funcionalidades que queremos ter em funcionamento na primeira versão são:
