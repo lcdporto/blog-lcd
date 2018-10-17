@@ -13,7 +13,7 @@ Resolvemos canibalizar o atual alarme e criar um novo cuja programação seja be
 ---
 
 Coordenador: João Figueiredo<br />
-Repositório: https://github.com/lcdporto/lcd-monitor
+Repositório: [https://github.com/lcdporto/lcd-monitor][repo]
 
 ---
 
@@ -31,18 +31,33 @@ Posteriormente temos planeado implementar:
 
 ## Implementação
 
-Em termos de hardware o LCD Monitor será controlado por um Arduino e uma Raspberry PI.
+O LCD Monitor será controlado por um Arduino e uma API a correr num servidor.
 
-O Arduino poderá operar a parte de alarme de forma independente, monitorizar o estado dos sensores, aceitar códigos de ativação/desativação pelo keypad, e despoletar os besouros.
+O Arduino irá operar o alarme de forma independente, monitorizar o estado dos sensores, aceitar códigos de ativação/desativação pelo keypad, e despoletar os besouros.
 
-A Raspberry PI irá expor uma API para interagir com a App do LCD e receber instruções que passará ao Arduino via RS232.
+A API para interagir com a App do LCD e receber instruções que passará ao Arduino via Ethernet.
 
-Nesta primeira fase, embora não se planeie fazer já uso, será logo integrado no hardware um leitor RFID/NFC e uma câmara que serão utilizados em futuras versões de software.
+Nesta primeira fase, embora não se planeie fazer já uso, será logo integrado no hardware um leitor RFID/NFC que será utilizado em futuras versões de software.
 
----
 
-Este post irá sendo atualizado à medida que do projeto evolui.
+## Atualizações
+
+#### 16-10-2018
+
+De forma a simplificar o projeto e deixar de manter uma Raspberry PI ‘presa’ e subutilizada decidimos adicionar um módulo Ethernet ao Arduino.
+
+A API passa a correr num qualquer servidor na LAN que comunica com o Arduino via Ethernet.
+
+O projeto foi dividido em quatro componentes principais, dois de software (API e Código do Arduino) e dois de hardware (PCB e consola).
+
+O [projeto no GitHub][repo] começou a ser atualizado com estas decisões e com os requisitos mínimos que cada um dos componentes terá que cumprir para que as funcionalidades base do projeto sejam implementadas.
+
+A descrição do projeto neste post (texto acima) foi também atualizada.
+
 
 ---
 <a href="https://unsplash.com/photos/IhcSHrZXFs4" target="_blank">Cover photo</a>
 by <a href="https://unsplash.com/@bernardhermant" target="_blank">Bernard Hermant</a>
+
+
+[repo]:https://github.com/lcdporto/lcd-monitor
