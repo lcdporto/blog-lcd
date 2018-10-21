@@ -72,6 +72,11 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 @ [Go Contact](https://www.gocontact.pt/) / Aveiro
 ([mapa](https://goo.gl/maps/GiqspEhNJ2z))
 
+* [Serious Fun - Agile Braga]
+(https://www.meetup.com/Agile-Connect-Braga/events/255584088/)
+@ [Factory Braga](http://factorybraga.com)
+([mapa](https://goo.gl/maps/5AD7KjPGgw12))
+
 
 #### Quarta-feira, 24 de Outubro
 
@@ -98,12 +103,20 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 @ [Porto i/o](http://porto.io/) Seaside
 ([mapa](https://maps.google.com/?cid=5216069477065432958))
 
+* [Clinc @ Fusion #1](https://www.meetup.com/Aveiro-AI/events/255272490/)
+@ [Fusion Cowork](https://fusioncowork.com) / Aveiro
+([mapa](https://goo.gl/maps/9Eos5Dgae1B2))
 
 #### Sábado, 27 de Outubro
 
 * **Tertúlia LCD**
 @ [LCD Porto](https://lcdporto.org/)
 ([mapa](https://goo.gl/maps/A65zj4ZXTrp))
+
+* **[Portuguese Women in Tech Awards Ceremony]
+(https://www.eventbrite.co.uk/e/portuguese-women-in-tech-awards-tickets-51102671466)**
+@ Alfândega do Porto
+([mapa](https://goo.gl/maps/7xLNT51n3cz))
 
 * **[TEDxGuimarães]
 (https://tedxguimaraes.com/homepage-2018/)**
