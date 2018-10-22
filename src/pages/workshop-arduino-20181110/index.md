@@ -20,7 +20,9 @@ Este [workshop][ws] funciona como uma introdução ao Arduino, pretende ser uma 
 Durante o workshop serão abordados os princípios básicos da eletrónica, programação, e os procedimentos para a prototipagem de ideias.
 
 
+#### Orientador: Nuno Barros
 
+O Nuno Barros é Designer Multimédia, programador e director artístico. Aluno do Mestrado em Tecnologia e Arte Digital. Actualmente é CTO na agência de comunicação Bastarda.
 
 
 <small>
@@ -34,7 +36,6 @@ Inscrições: [Workshop de iniciação ao Arduino][ws]
 
 ---
 <a href="https://unsplash.com/photos/lbqLxgvLt0U" target="_blank">Cover photo</a>
-by <a href="https://unsplash.com/@spendude" target="_blank">Spencer _Spencer _
-</a>
+by <a href="https://unsplash.com/@spendude" target="_blank">Spencer _</a>
 
 [ws]:https://lcdporto.org/atividades/workshop-introducao-ao-arduino
