@@ -107,16 +107,22 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 @ [Fusion Cowork](https://fusioncowork.com) / Aveiro
 ([mapa](https://goo.gl/maps/9Eos5Dgae1B2))
 
-#### Sábado, 27 de Outubro
 
-* **Tertúlia LCD**
-@ [LCD Porto](https://lcdporto.org/)
-([mapa](https://goo.gl/maps/A65zj4ZXTrp))
+#### Sexta-feira, 26 de Outubro
+
+* [Game Dev Meet]
+(https://www.meetup.com/GameDevMeetPorto/events/255737386/)
+@ [Polo Zero](http://polozero.fap.pt/)
+([mapa](https://maps.google.com/?cid=6452894895241246126))
+
+
+#### Sábado, 27 de Outubro
 
 * **[Portuguese Women in Tech Awards Ceremony]
 (https://www.eventbrite.co.uk/e/portuguese-women-in-tech-awards-tickets-51102671466)**
 @ Alfândega do Porto
 ([mapa](https://goo.gl/maps/7xLNT51n3cz))
+<br /><small>Atribuição dos primeiros prémios Portuguese Women in Tech Awards, Founders / Co-Founder, Marketing & Sales Expert and Developer </small>
 
 * **[TEDxGuimarães]
 (https://tedxguimaraes.com/homepage-2018/)**
@@ -127,28 +133,39 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 (https://www.meetup.com/iOS-Peer-Lab-Porto/events/krvrdqyxnbkc/)
 @ TBA
 
+* [V. Vuksic / Blason / Lonz Dale's Fantasy / G. Cohen / O Bergado]
+(https://www.facebook.com/events/2008613902506944/)
+@ [We Came From Space](http://wecamefromspace.com/)
+([mapa](https://goo.gl/maps/KFwZu7p6xCq))<br />
+  <small>Concertos, exposição, workshop, jantar e bebidas</small>
+
+#### Domingo, 28 de Outubro
+
+* [Computer Jam Workshop by Valentina Vuksic]
+(https://www.facebook.com/events/253873308650570/)
+@ [We Came From Space](http://wecamefromspace.com/)
+([mapa](https://goo.gl/maps/KFwZu7p6xCq))
+
+
 
 
 ## Atividades do LCD Porto
 
 Verificar sempre, seguindo os links, se o evento requer incrição.
 
-#### Outubro
-
-* 27 - Tertúlia LCD - Influência da Tecnologia
-
 
 #### Novembro
 
 * 2 - Visita à Escola da Ponte
 * 10 - [Workshop de Introdução ao Arduino](https://lcdporto.org/atividades/workshop-introducao-ao-arduino)
-* 17 - Tertúlia LCD - Futuro do Trabalho
+* 17 - Tertúlia LCD - Influência da Tecnologia
 
 
 #### Dezembro
 * 4 - LCD Meetup - Design Industrial
 * 8 - [Workshop Corte a Laser](https://lcdporto.org/atividades/workshop-de-corte-a-laser-1)
 * 15 e 16 - Encontro de Laboratórios e Makerspaces
+  * 15 - Tertúlia LCD - Futuro do Trabalho
 
 
 
