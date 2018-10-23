@@ -28,7 +28,8 @@ O Nuno Barros é Designer Multimédia, programador e director artístico. Aluno 
 <small>
 Data: Sábado, 10-Nov-2018<br />
 Duração: 7h<br />
-Orientador: Nuno Barros
+Orientador: Nuno Barros<br />
+Material necessário: Computador portátil
 
 Inscrições: [Workshop de iniciação ao Arduino][ws]
 </small>
