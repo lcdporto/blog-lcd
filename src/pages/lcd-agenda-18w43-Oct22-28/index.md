@@ -162,7 +162,7 @@ Verificar sempre, seguindo os links, se o evento requer incrição.
 
 
 #### Dezembro
-* 4 - LCD Meetup - Design Industrial
+* 4 - [LCD Meetup: O Design de Produto, Design Industrial - Tauan Tacchini Bernardo ](https://www.meetup.com/LCD-Meetups/events/255361100/)
 * 8 - [Workshop Corte a Laser](https://lcdporto.org/atividades/workshop-de-corte-a-laser-1)
 * 15 e 16 - Encontro de Laboratórios e Makerspaces
   * 15 - Tertúlia LCD - Futuro do Trabalho
