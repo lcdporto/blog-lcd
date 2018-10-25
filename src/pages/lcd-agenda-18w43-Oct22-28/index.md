@@ -156,15 +156,16 @@ Verificar sempre, seguindo os links, se o evento requer incrição.
 
 #### Novembro
 
-* 2 - Visita à Escola da Ponte
-* 10 - [Workshop de Introdução ao Arduino](https://lcdporto.org/atividades/workshop-introducao-ao-arduino)
-* 17 - Tertúlia LCD - Influência da Tecnologia
+* **dia 2** - Visita à Escola da Ponte
+* **dia 10** - [Workshop de Introdução ao Arduino](https://lcdporto.org/atividades/workshop-introducao-ao-arduino)<br />
+  <small>podes saber mais sobre o Arduino no [post sobre o Workshop de Iniciação ao Arduino](../workshop-arduino-20181110/)</small>
+* **dia 17** - Tertúlia LCD - Influência da Tecnologia
 
 
 #### Dezembro
-* 4 - LCD Meetup - Design Industrial
-* 8 - [Workshop Corte a Laser](https://lcdporto.org/atividades/workshop-de-corte-a-laser-1)
-* 15 e 16 - Encontro de Laboratórios e Makerspaces
+* **dia 4** - [LCD Meetup: O Design de Produto, Design Industrial - Tauan Tacchini Bernardo ](https://www.meetup.com/LCD-Meetups/events/255361100/)
+* **dia 8** - [Workshop Corte a Laser](https://lcdporto.org/atividades/workshop-de-corte-a-laser-1)
+* **dias 15 e 16** - Encontro de Laboratórios e Makerspaces
   * 15 - Tertúlia LCD - Futuro do Trabalho
 
 
