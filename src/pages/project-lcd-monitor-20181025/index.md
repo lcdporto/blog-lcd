@@ -13,7 +13,7 @@ Já comecei também a fazer alguns testes, muito por alto mais provas de conceit
 Este fim-de-semana conto produzir um circuito em breadborad que simule grande parte do que vai ser a versão em PCB.
 
 
-[GPreira]:#
+[GPreira]:https://github.com/G-Pereira
 [repo]:https://github.com/lcdporto/lcd-monitor
 [arduino-code]:https://github.com/lcdporto/lcd-monitor/tree/0c6db239b44409c010214d3959ebc1e05a602a92/arduino-code
 [pcb]:https://github.com/lcdporto/lcd-monitor/tree/d260d88456c2e35cfab13c3d60c9bae998438b17/pcb
