@@ -42,7 +42,11 @@ Nesta primeira fase, embora não se planeie fazer já uso, será logo integrado 
 
 ## Atualizações
 
-#### 16-10-2018
+##### 25-10.2018
+
+O Gonçalo Pereira criou a primeira versão dos esquemáticos da PCB e foram efetuados alguns testes. Primeiras provas de conceito no software para o Arduino. Ler mais em [LCD Monitor: PCB e Testes](../project-lcd-monitor-20181025/).
+
+##### 16-10-2018
 
 De forma a simplificar o projeto e deixar de manter uma Raspberry PI ‘presa’ e subutilizada decidimos adicionar um módulo Ethernet ao Arduino.
 
