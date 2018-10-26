@@ -131,7 +131,8 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 
 * [iOS Peer Lab Porto]
 (https://www.meetup.com/iOS-Peer-Lab-Porto/events/krvrdqyxnbkc/)
-@ TBA
+@ Mercado Bom Sucesso
+([mapa](https://goo.gl/maps/yxhdBVQ38m32))
 
 * [V. Vuksic / Blason / Lonz Dale's Fantasy / G. Cohen / O Bergado]
 (https://www.facebook.com/events/2008613902506944/)
