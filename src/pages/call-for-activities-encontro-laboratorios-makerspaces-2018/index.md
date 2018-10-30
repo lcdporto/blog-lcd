@@ -1,12 +1,12 @@
 ---
 title: "Call for Activities: Encontro de Laboratórios e Makerspaces 2018"
 date: "2018-10-23T21:05:05.169Z"
-author: João Figueiredo, Ricardo Lobo
+author: "João Figueiredo"
 ---
 
 ![You got time!](matt-artz-428682-unsplash.jpg)
 
-#### #callforactivities #callformakers #callforpapers
+#### <center>#callforactivities #callformakers #callforpapers</center>
 
 Dias 15 e 16 de Dezembro vai decorrer o Encontro de Laboratórios e Makerspaces no LCD Porto.
 
@@ -26,8 +26,14 @@ Este encontro pretende ser um espaço de convívio da comunidade Maker e uma opo
 Procuramos neste momento propostas para:
 
 * workshops
+  <br /><small>
+  Pretenden-se workshops de curta duração, cerca de 1h, que sirvam de apresentação a temas que interessem a comunidade,
+  </small>
 * palestras (talks)
 * projetos para a mostra
+  <br><small>
+  Pequeno _show and tell_ em que se mostra um projeto que se completou ou em que se está a trabalhar, apresentaçãoes com menos de 10 minutos.
+  </small>
 
 Podes submeter a tua proposta usando um formulário seguindo os liks acima ou fazendo um Pull Request no [repositório][repo] em que estamos a coordenar a organização.
 
