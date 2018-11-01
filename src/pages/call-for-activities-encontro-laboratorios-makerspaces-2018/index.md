@@ -25,7 +25,7 @@ Este encontro pretende ser um espaço de convívio da comunidade Maker e uma opo
 
 Procuramos neste momento propostas para:
 
-* workshops
+* <a href="https://goo.gl/forms/K1X9Jr5iJTSjZ7Wu2" target="_BLANK">workshops</a>
   <br /><small>
   Pretenden-se workshops de curta duração, cerca de 1h, que sirvam de apresentação a temas que interessem a comunidade,
   </small>
@@ -44,6 +44,7 @@ https://github.com/lcdporto/encontro-labs-e-makerspaces-2018
 Este artigo irá sendo atualizado com novidades e alterações de curso ;-)
 
 [repo]:https://github.com/lcdporto/encontro-labs-e-makerspaces-2018
+[form-ws]:https://goo.gl/forms/K1X9Jr5iJTSjZ7Wu2
 
 ---
 <a href="https://unsplash.com/photos/P68Dmi7PQlU" target="_blank">Cover photo</a>
