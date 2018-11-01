@@ -90,6 +90,14 @@ Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
 
 #### Sábado, 3 de Novembro
 
+* [Date with Data #31]
+(https://www.wikidata.org/wiki/Wikidata:Sixth_Birthday/Date_With_Data_(Porto))
+@ [UPTEC](http://www.uptec.up.pt/)
+([mapa](https://goo.gl/maps/r4diU9UZgzT2))
+<br /><small>
+ encontro especial, cozinhado em conjunto com a WikiMedia Portugal e a OSGeo-PT
+ </small>
+
 * [CoderDojo Vila do Conde]
 (https://www.facebook.com/events/2123565031227988/)
 @ [BindTuning](https://bindtuning.com/) / Vila do Conde

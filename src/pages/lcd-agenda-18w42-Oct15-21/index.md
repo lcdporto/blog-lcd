@@ -134,8 +134,9 @@ Podes adicionar a LCD Agenda ao calendário que habitualmente usas, quase todos 
 * [Microsoft Outlook](https://support.office.com/en-us/article/Import-or-subscribe-to-a-calendar-in-Outlook-com-cff1429c-5af6-41ec-a5b4-74f2c278e98c)
 
 O link que tens que usar é este:
-
+<small>
 https://calendar.google.com/calendar/ical/jfig.net_0gpa7saiiduptpqg4fc3sq1f7c%40group.calendar.google.com/public/basic.ics
+</small>
 
 
 ---
