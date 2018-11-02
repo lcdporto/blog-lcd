@@ -79,6 +79,11 @@ Daria Vodopianova shares her story and explains how you can also have a personal
 Websockets vs SSE, André Freitas
 </small>
 
+* [Failure Thursdays by Porto i/o!]
+(https://www.meetup.com/Porto-i-o-events/events/rtjgfqyxnbpb/)
+@ [Porto i/o](http://porto.io/) Riverside
+([mapa](https://goo.gl/maps/AZdcydFrGqC2))
+
 * [Mais Perto das Estrelas]
 (https://www.facebook.com/events/2228866517347438/)
 @ [Planetario Do Porto](http://www.planetario.up.pt/pt/)
