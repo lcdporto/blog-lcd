@@ -93,6 +93,18 @@ Breve demonstração no interior da cúpula do Planetário digital, onde poderã
 </small>
 
 
+#### Sexta-feira, 9 de Novembro
+
+* [World Usability Day - II part]
+(https://www.meetup.com/PortoUX/events/256061811/)
+@ [UPTEC](http://www.uptec.up.pt/)
+([mapa](https://goo.gl/maps/r4diU9UZgzT2))
+<br /><small>
+To celebrate the World Usability Day, PortoUX and CCG - Centro de Computação Gráfica, invited Maggie Law and Beth Goldman to share their large experiences, designing for good and evil, in their contexts.
+</small>
+
+
+
 #### Sábado, 10 de Novembro
 
 * **[Workshop Introdução ao Arduino]
@@ -116,6 +128,9 @@ Explorar alguns conceitos teóricos no contexto da música interativa nos jogos 
 @ [gnration](http://www.gnration.pt/) / Braga
 ([mapa](https://goo.gl/maps/FoRAom2wzhF2))
 <br /><small>evento gratuito onde, de forma simples, jovens dos 7 aos 17 anos tem contacto com tecnologia e programação</small>
+
+
+
 
 ## Atividades do LCD Porto
 

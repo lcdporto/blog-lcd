@@ -8,11 +8,11 @@ author: João Figueiredo
 
 Visitamos esta sexta-feira a <a href="http://www.escoladaponte.pt/novo/" target="_BLANK">Escola da Ponte</a> para conhecer melhor os métodos que são seguidos.
 
-Na Escola da Ponte não existem “turmas” e sem “anos” os alunos definem em conjunto com o seu tutor o seu plano, para a quinzena.
+Na Escola da Ponte não existem “turmas” nem “anos” os alunos definem em conjunto com o seu tutor o seu plano, para a quinzena.
 
 A aprendizagem é feita em pequenos grupos que partilham os temas durante essa quinzena. Ao fim da quinzena os grupos dissolvem-se.
 
-O que nos acabou por surpreender foi o ser tão estruturado, os alunos fazem o seus planos quinzenais e diários com aquilo que se propõem estudar, pesquisar, e aprender nesse intervalo.
+O que nos acabou por surpreender foi o ser tão estruturado, os alunos fazem os seus planos quinzenais e diários com aquilo que se propõem estudar, pesquisar, e aprender nesse intervalo.
 
 Por outro lado como estes planos, ou contratos de compromisso, têm que ser definidos com os professores acaba por haver um acompanhamento muito mais personalizado a cada aluno.
 
