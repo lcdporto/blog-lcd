@@ -19,7 +19,7 @@ Este [workshop][ws] funciona como uma introdução ao Arduino, pretende ser uma 
 
 Durante o workshop serão abordados os princípios básicos da eletrónica, programação, e os procedimentos para a prototipagem de ideias.
 
-Só necessitas trazer o teu portatil, preferencialmente já com o [IDE do Arduino instalado](https://www.arduino.cc/en/Main/Software), no LCD Porto temos os Arduininos, sensores, atuadores e restante material de eletronica necessário.
+Só necessitas trazer o teu portatil, preferencialmente já com o [IDE do Arduino instalado](https://www.arduino.cc/en/Main/Software), no LCD Porto temos os Arduinos, sensores, atuadores e restante material de eletronica necessário.
 
 
 #### Orientador: Nuno Barros
