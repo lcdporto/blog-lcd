@@ -129,7 +129,12 @@ Explorar alguns conceitos teóricos no contexto da música interativa nos jogos 
 ([mapa](https://goo.gl/maps/FoRAom2wzhF2))
 <br /><small>evento gratuito onde, de forma simples, jovens dos 7 aos 17 anos tem contacto com tecnologia e programação</small>
 
-
+* [iOS Peer Lab Porto]
+(https://www.meetup.com/iOS-Peer-Lab-Porto/events/krvrdqyxpbnb/)
+@ TBA
+<br /><small>
+Each session will have discussion topics, small projects or technologies to research on if needed.
+</small>
 
 
 ## Atividades do LCD Porto
