@@ -4,7 +4,7 @@ date: "2018-11-09T09:05:05.169Z"
 author: João Figueiredo
 ---
 
-<img src="jens-herrndorff-159791-unsplash.jpg" />
+<img src="jens-herrndorff-159791-unsplash.jpg" /><br />
 
 
 
@@ -13,6 +13,7 @@ Na LCD Agenda procuramos divulgar eventos no Porto e arredores sobre temáticas 
 Focamos-nos portanto em Fabricação Digital, Instalações Intercativas e toda a multiplicidade de disciplinas que servem de base como programação, design, eletrónica, microcontroladores, etc., etc..
 
 Vê mais abaixo como podes adicionar ao teu calendário ou sugerir mais eventos.
+
 
 
 ### Ainda este fim-de-semana
