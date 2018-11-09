@@ -39,6 +39,10 @@ FOOTER .lcdlinks IMG {
   height: 1.5rem;
 }
 
+SMALL  {
+  color: #555;
+}
+
 .cc {
   opacity: 0.8;
   display: inline-flex;
