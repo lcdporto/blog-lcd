@@ -6,15 +6,11 @@ author: João Figueiredo, Nuno Barros
 
 ![That wire goes where?](spencer-_-699369-unsplash.jpg)
 
----
+|           |                               |
+|-----------|-------------------------------|
+| **Nota:** | Este workshop já se realizou.<br />Para veres as atividades atualmente disponíveis vê no nosso website a [Página de Atividades](https://lcdporto.org/atividades/) ou [entra em contacto](https://lcdporto.org/contactos) para saberes o que está em preparação.
 
-**Nota:**
 
-Este workshop já se realizou.
-
-Para veres as atividades atualmente disponíveis vê no nosso website a [Página de Atividades](https://lcdporto.org/atividades/) ou [entra em contacto](https://lcdporto.org/contactos) para saberes o que está em preparação.
-
----
 
 
 O Arduino é um projeto de microcontrolador de código aberto que literalmente muda o mundo.
