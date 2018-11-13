@@ -6,6 +6,16 @@ author: João Figueiredo, Nuno Barros
 
 ![That wire goes where?](spencer-_-699369-unsplash.jpg)
 
+---
+
+**Nota:**
+
+Este workshop já se realizou.
+
+Para veres as atividades atualmente disponíveis vê no nosso website a [Página de Atividades](https://lcdporto.org/atividades/) ou [entra em contacto](https://lcdporto.org/contactos) para saberes o que está em preparação.
+
+---
+
 
 O Arduino é um projeto de microcontrolador de código aberto que literalmente muda o mundo.
 
@@ -19,12 +29,12 @@ Este [workshop][ws] funciona como uma introdução ao Arduino, pretende ser uma 
 
 Durante o workshop serão abordados os princípios básicos da eletrónica, programação, e os procedimentos para a prototipagem de ideias.
 
-Só necessitas trazer o teu portatil, preferencialmente já com o [IDE do Arduino instalado](https://www.arduino.cc/en/Main/Software), no LCD Porto temos os Arduinos, sensores, atuadores e restante material de eletronica necessário.
+Só necessitas trazer o teu portátil, preferencialmente já com o [IDE do Arduino instalado](https://www.arduino.cc/en/Main/Software), no LCD Porto temos os Arduinos, sensores, atuadores e restante material de eletrónica necessário.
 
 
 #### Orientador: Nuno Barros
 
-O Nuno Barros é Designer Multimédia, programador e director artístico. Aluno do Mestrado em Tecnologia e Arte Digital. Actualmente é CTO na agência de comunicação Bastarda.
+O Nuno Barros é Designer Multimédia, programador e director artístico. Aluno do Mestrado em Tecnologia e Arte Digital. Atualmente é CTO na agência de comunicação Bastarda.
 
 
 <small>
