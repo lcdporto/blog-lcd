@@ -139,13 +139,6 @@ O Bruno Amorim ocupa o cargo de Designer e Digital Director na Bürocratik, lide
 
 #### Sábado, 17 de Novembro
 
-* **Tertúlia LCD - Influência da Tecnologia**
-@ [LCD Porto](https://lcdporto.org/)
-([mapa](https://goo.gl/maps/A65zj4ZXTrp))
-<br /><small>
-Mais indicações em breve
-</small>
-
 * [Stoicism History - Origins and Nowadays]
 (https://www.meetup.com/Stoa-Porto/events/256144729/)
 @ [Biblioteca Municipal Almeida Garrett](https://bmp.cm-porto.pt/bmag)
@@ -186,7 +179,6 @@ Verificar sempre, seguindo os links, se o evento requer incrição.
 
 * **dia 10** - [Workshop de Introdução ao Arduino](https://lcdporto.org/atividades/workshop-introducao-ao-arduino)<br />
   <small>podes saber mais sobre o Arduino no [post sobre o Workshop de Iniciação ao Arduino](../workshop-arduino-20181110/)</small>
-* **dia 17** - Tertúlia LCD - Influência da Tecnologia
 
 
 #### Dezembro
