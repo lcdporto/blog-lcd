@@ -4,7 +4,7 @@ date: "2018-11-16T09:05:05.169Z"
 author: João Figueiredo
 ---
 
-<img src="jens-herrndorff-159791-unsplash.jpg" /><br />
+<img src="job-savelsberg-500451-unsplash.jpg" /><br />
 
 
 
@@ -181,8 +181,3 @@ O link que tens que usar é este:
 <small>
 https://calendar.google.com/calendar/ical/jfig.net_0gpa7saiiduptpqg4fc3sq1f7c%40group.calendar.google.com/public/basic.ics
 </small>
-
-
----
-<a href="https://unsplash.com/photos/8xI-48u8fMs" target="_blank">Cover photo</a>
-by <a href="https://unsplash.com/@jens_h" target="_blank">Jens Herrndorff</a>
