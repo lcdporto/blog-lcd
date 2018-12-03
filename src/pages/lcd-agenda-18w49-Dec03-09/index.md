@@ -117,6 +117,16 @@ We will have the pleasure of having Tiago Freitas and Pedro Costa who will be te
 Três oradores, três palestras, André Cruz, Founder & CTO na MOXY, André Garzia, Tech Speaker na Mozilla e Alex Potsides, Core JavaScript Developer na Protocol Labs.
 </small>
 
+* [DesignOps: Effective Design at scale]
+(https://www.meetup.com/PortoUX/events/256848074/)
+@ [Porto i/o](http://porto.io/) Santa Catarina
+([mapa](https://goo.gl/maps/psfyAW9T3nF2))
+<br /><small>
+Sónia Gomes will share her perspective around the impact of a design ops when building effective and happy design team.
+</small>
+
+
+
 #### Sábado, 8 de Dezembro
 
 * **[Workshop Corte a Laser]
