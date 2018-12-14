@@ -115,23 +115,6 @@ After a year of rigorous learning, our Design and Development students are gradu
 Liliana Castro lançou a [FES Agency](https://fesagency.pt/) - agência de PR e Eventos dedicada a startups e projetos tech - e o Soft Landing Porto - uma consultora de apoio a empresas e empreendedores que queiram estabelecer-se no Porto
 </small>
 
-
-#### Sábado, 15 de Dezembro
-
-*  Encontro de Laboratórios e Makerspaces
-
-
-
-
-## Atividades do LCD Porto
-
-Verificar sempre, seguindo os links, se o evento requer incrição.
-
-#### Dezembro
-
-* **dias 15 e 16** - Encontro de Laboratórios e Makerspaces
-  * 15 - Tertúlia LCD - Futuro do Trabalho
-
 ---
 
 ## Falta aqui o teu evento?
