@@ -80,14 +80,6 @@ Workshop com a contabilista Erica Sousa, sobre as novas regras fiscais para free
 
 #### Sábado, 19 de Janeiro
 
-* [Ética para quê?]
-(https://www.meetup.com/Stoa-Porto/events/257866006/)
-@ [Biblioteca Municipal Almeida Garrett](https://bmp.cm-porto.pt/bmag)
-([mapa](https://goo.gl/maps/QEPjUGjyDET2))
-<br /><small>
-Espaço para discussão sobre Ética e como sua prática pode impactar positivamente nossas vidas e a daqueles que nos rodeia!
-</small>
-
 * [G2PT75 - 75º Geek Girls Portugal - Porto]
 (https://www.eventbrite.pt/e/bilhetes-g2pt75-75o-geek-girls-portugal-porto-54626722999)
 @ [Ubiquity Technology](https://ubiquity.pt/)
