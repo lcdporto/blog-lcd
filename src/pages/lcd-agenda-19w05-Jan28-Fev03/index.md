@@ -124,7 +124,7 @@ Daniela Costa vem apresentar casos de problemas que ocorrem com clientes em proj
 @ [REACTOR Innovation Hub](https://reactorhub.io/)
 ([mapa](https://goo.gl/maps/jHDyounA2Ds))
 <br /><small>
-In this session we will share the main characteristics of successful presentations along their four pillars – message, structure, feel and performance – and which behaviours should be avoided and which should be adopted.
+[Norberto Amaral](https://www.linkedin.com/in/norbertoamaral/) a Managing Partner at [Cultiv](http://cultiv.pt/), will share the main characteristics of successful presentations along their four pillars – message, structure, feel and performance – and which behaviours should be avoided and which should be adopted.
 </small>
 
 
