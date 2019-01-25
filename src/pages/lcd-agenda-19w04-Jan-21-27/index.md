@@ -170,6 +170,14 @@ DevFests are community-led, developer events hosted by GDG chapters around the g
 Espaço para discussão sobre Ética e como sua prática pode impactar positivamente nossas vidas e a daqueles que nos rodeia!
 </small>
 
+* [Basto Tech MeetUP #5]
+(https://www.meetup.com/Basto-Tech-MeetUP/events/258242083/)
+@ Galerias São Miguel / Cabeceiras de Basto
+([mapa](https://goo.gl/maps/jtVQJKUSoh92))
+<br /><small>
+Infrastructure as Code: Impulsionar DevOps, por Diana Martins / #ADN4IT, por Ângela Mucha
+</small>
+
 #### Domingo, 27 de Janeiro
 
 * [PyCoffee. Hot coffee and Pythonic discussions]
