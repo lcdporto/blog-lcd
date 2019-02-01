@@ -142,6 +142,14 @@ Daniela Costa vem apresentar casos de problemas que ocorrem com clientes em proj
 evento gratuito onde, de forma simples, jovens dos 7 aos 17 anos tem contacto com tecnologia e programação
 </small>
 
+* [Sistemas de Comunicação para o Espaço - Apresentação de trabalho]
+(https://www.facebook.com/events/606824296443341/)
+@ [Fábrica Centro Ciência Viva de Aveiro](http://www.ua.pt/fabrica/contacts.aspx)
+([mapa](https://goo.gl/maps/sYPesWbf5Ts))
+<br /><small>
+IEEE MTT-S Student Branch Chapter gostaria de o convidar para apresentação de trabalhos de Sistemas de Comunicação para Espaço
+</small>
+
 
 ### Semana seguinte
 
