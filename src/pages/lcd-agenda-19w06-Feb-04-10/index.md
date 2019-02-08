@@ -124,12 +124,33 @@ With Catarina Reis we'll explore the impact of authentic and original content in
 Não estamos excessivamente deslumbrados com a tecnologia em detrimento de um design cada vez mais inclusivo, centrado no utilizador
 </small>
 
+
 #### Sábado, 9 de Fevereiro
+
+* [Workshop: Técnicas e práticas aplicadas à escrita criativa]
+(https://www.facebook.com/events/297687004252215/)
+@  [Corpo da Escrita](https://corpodaescritablog.wordpress.com)
+([mapa](https://goo.gl/maps/2ansn7ZQUUT2))
+<br /><small>
+Como desenvolver a criatividade, aplicada à prática da escrita
+</small>
+
+
+#### Domingo, 10 de Fevereiro
 
 * [PyCoffee. Hot coffee and Pythonic discussions]
 (https://www.meetup.com/pyporto/events/dzkzhqyzdbnb/)
 @ [Porto i/o](http://porto.io/) Downtown
 ([mapa](https://maps.google.com/?cid=12457545381001472324))
+
+* [Dia das Mulheres e Raparigas na Astronomia]
+(https://www.facebook.com/events/321056208751990/)
+@ [Planetario Do Porto](http://www.planetario.up.pt/pt/)
+([mapa](https://goo.gl/maps/igDcn4fwWes))
+<br /><small>
+Como será o trabalho de uma astrofísica? O que é necessário para se estudar o Espaço? Será que os cientistas andam com a cabeça na Lua?
+</small>
+
 
 
 ### Semana seguinte
