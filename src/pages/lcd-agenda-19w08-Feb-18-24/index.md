@@ -148,6 +148,34 @@ Uma celebração para comemorar a abertura do Makerspace Sandbox Projects, um lo
   * [PyCoffee. Hot coffee and Pythonic discussions in Porto i/o](https://www.meetup.com/pyporto/events/dzkzhqyzdbgc/)
 
 
+### Na semana seguinte
+
+* **26/2 Terça**
+
+  * **[LCD Porto - Laboratório Aberto](https://www.lcdporto.org/atividades/laboratorio-aberto)**
+  * [Aveiro Meetup #22 - Serious Fun](https://www.meetup.com/Agile-Connect-Aveiro/events/258973474/)
+  * [Redis Porto #1 - Intro to Redis Commands and Data Structures](https://www.meetup.com/Redis-Porto/events/257403861/)
+
+
+* **27/2 Quarta**
+
+  * [PWL #09 :: Deep Residual Learning for Image Recognition](https://www.meetup.com/Papers-We-Love-Porto/events/257133828/)
+
+
+* **28/2 Quinta**
+
+  * [[ØxＯＰＯＳɆＣ Mɇɇtuᵽ] [0x71] - The Meet]( https://www.meetup.com/0xOPOSEC/events/258680115/)
+  * [[REACTOR TALK] From What to Why](https://www.facebook.com/events/2085574641664964/)
+  * [[Agile Connect] The sunshine, rainbows of working remotely](https://www.meetup.com/Agile-Connect-Porto/events/258871415/)
+
+
+* **1/3 Sexta**
+
+  * [Python talks with kiwi.com](https://www.meetup.com/pyporto/events/258865271/)
+
+
+
+
 ---
 
 ## Falta aqui o teu evento?
