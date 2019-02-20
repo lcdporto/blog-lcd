@@ -15,5 +15,5 @@ Envolvidos:
 [João Figueiredo][jfig]
 
 [pull_request]:https://github.com/njh/EtherCard/pull/361
-[GPreira]:https://github.com/G-Pereira
+[GPereira]:https://github.com/G-Pereira
 [jfig]:https://github.com/jfig
