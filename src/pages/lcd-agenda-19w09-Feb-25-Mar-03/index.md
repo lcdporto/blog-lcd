@@ -1,5 +1,5 @@
 ---
-title: LCD Agenda 18 a 24 de Fevereiro 2019
+title: LCD Agenda 25 de Fevereiro a 3 de Março 2019
 date: "2019-02-22T16:45:06.169Z"
 author: João Figueiredo
 ---
