@@ -1,10 +1,10 @@
 ---
 title: "Projeto: LCD Monitor: PlatformIO"
-date: "2019-02-26T13:32:47.169Z"
+date: "2019-02-27T13:32:47.169Z"
 author: Gonçalo Pereira
 ---
 
-![Oh..F!](arduino-atom-platformio-IDE.png)
+![Oh..F!](arduino-atom-platformio-IDE.jpg)
 
 Esta semana no projeto [LCD Monitor](../project-lcd-monitor/) foi substituido o Arduino IDE, a ferramenta de desenvolvimento, pelo [PlatformIO][platformio].
 
