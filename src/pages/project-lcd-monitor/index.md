@@ -42,6 +42,14 @@ Nesta primeira fase, embora não se planeie fazer já uso, será logo integrado 
 
 ## Atualizações
 
+##### 26-02-2019 - [Mudança para PlatformIO](../project-lcd-monitor-20190226/)
+
+O projeto mudou do Arduino IDE para [PlatformIO](https://platformio.org/).
+
+##### 19-02.2019 - [Módulo Ethernet](../project-lcd-monitor-20190219/)
+
+Testado o módulo de Ethernet e efetuado Pull Request à biblioteca para resolver problema de timeout.
+
 ##### 25-10.2018
 
 O Gonçalo Pereira criou a primeira versão dos esquemáticos da PCB e foram efetuados alguns testes. Primeiras provas de conceito no software para o Arduino. Ler mais em [LCD Monitor: PCB e Testes](../project-lcd-monitor-20181025/).
